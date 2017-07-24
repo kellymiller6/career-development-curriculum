@@ -3,6 +3,9 @@
 ## Mod 4 Deliverables:
 * Cold Outreach/Networking Deliverable (pick one of these three):
     * [blog post](https://medium.com/@kmil303/jumping-into-open-source-like-a-junior-dev-1212362fdc63).
+    * I am using this blog as a way to network through my twitter connections. I've also asked a few in my network to pass
+    it on. I am hoping that my blog will communicate a bit about what Turing is and does to help people understand what 
+    a rigorous program it is. I also wanted to share my enthusiasm for my new career through this bost. 
     
 * Link to your completed Turing portfolio with 2 additional projects: 
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
