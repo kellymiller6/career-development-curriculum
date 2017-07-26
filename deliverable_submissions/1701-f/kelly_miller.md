@@ -8,7 +8,7 @@
     a rigorous program it is. I also wanted to share my enthusiasm for my new career through this bost. 
     
 * Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
+* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md): [practice interview reflection](https://gist.github.com/kellymiller6/91bfa20f360c333fdd4cdbfe245e7de3)
 * Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): [action plan gist](https://gist.github.com/kellymiller6/edf17eb69bf6475b0fcf76507905bdb2)
 
 ## Mod 3 Deliverables:
